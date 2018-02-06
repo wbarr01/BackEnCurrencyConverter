@@ -1,0 +1,13 @@
+com\wb\dto\UserRequest.class
+com\wb\dto\Change.class
+com\wb\dto\User.class
+com\wb\CORS\CORSResponseFilter.class
+com\wb\service\ChangeRestService.class
+com\wb\data\DBconnection.class
+com\wb\data\ChangeData.class
+com\wb\data\UserDataRepo.class
+com\wb\data\ChangeDataRepo.class
+com\wb\dto\ChangeResponse.class
+com\wb\data\UserData.class
+com\wb\service\UserRestService.class
+com\wb\dto\UserResponse.class
